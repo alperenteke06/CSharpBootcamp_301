@@ -1,0 +1,6 @@
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\bin\Debug\CSharpBootcamp_301.EntityLayer.dll
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\bin\Debug\CSharpBootcamp_301.EntityLayer.pdb
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\obj\Debug\CSharpBootcamp_301.EntityLayer.csproj.AssemblyReference.cache
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\obj\Debug\CSharpBootcamp_301.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\obj\Debug\CSharpBootcamp_301.EntityLayer.dll
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\obj\Debug\CSharpBootcamp_301.EntityLayer.pdb
