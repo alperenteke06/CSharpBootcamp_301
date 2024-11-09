@@ -1,19 +1,13 @@
-﻿namespace CSharpBootcamp_301.EntityLayer.Concrete
+﻿using System.Collections.Generic;
+
+namespace CSharpBootcamp_301.EntityLayer.Concrete
 {
-	public class Category
-	{
-		public int CategoryId { get; set; }
-		public string CategoryName { get; set; }
-		public bool CategoryStatus { get; set; }
-	}
+    public class Category
+    {
+        public int CategoryId { get; set; }
+        public string CategoryName { get; set; }
+        public bool CategoryStatus { get; set; }
+        public List<Product> Products { get; set; }
+    }
 }
 
-/* Field - Variable - Property */
-/*
-	int field;
-	public int property { get; set; }
-	void MyMethod()
-	{
-		int variable;
-	}
-*/
