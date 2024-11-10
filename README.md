@@ -10,3 +10,7 @@ Bu repo, Murat Yücedağ’ın C# Eğitim Kampı 301 seviyesindeki süreçte gel
 - **Konu:** Data Access Katmanı ve Context Sınıfının Oluşturulması
 - **Detaylar:** Bu derste, C# kullanarak Veri Erişim Katmanını ve Context sınıfını oluşturdum. Katmanlar arasındaki referans yapısını kurarak ilgili NuGet paketlerini yükledim.
 Presentation katmanında bulunan App.config dosyasında, veritabanı bağlantısı için gerekli ayarları yaptım.
+
+## 🎉 Ders 3: Migration'ların ve Abstract Interface'lerin Hazırlanması
+- **Konu:** Migration'ların ve Abstract Interface'lerin Hazırlanması
+- **Detaylar:** Bu derste, Package Manager Console komutları kullanarak veritabanını oluşturdum ve entity'lerime ait tabloların otomatik olarak oluşturulmasını sağladım. Ayrıca, Abstract Interface'ler hazırlayarak projede Generic Repository Design uygulamak için ilk adımları attım.
