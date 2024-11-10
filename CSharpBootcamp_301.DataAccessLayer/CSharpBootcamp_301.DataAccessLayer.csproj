@@ -52,6 +52,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context\BootcampContext.cs" />
+    <Compile Include="Migrations\202411101158266_mig1_addedStatusForCustomer.cs" />
+    <Compile Include="Migrations\202411101158266_mig1_addedStatusForCustomer.Designer.cs">
+      <DependentUpon>202411101158266_mig1_addedStatusForCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -60,7 +65,11 @@
       <Name>CSharpBootcamp_301.EntityLayer</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202411101158266_mig1_addedStatusForCustomer.resx">
+      <DependentUpon>202411101158266_mig1_addedStatusForCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />

@@ -1,0 +1,15 @@
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.BusinessLayer\obj\Debug\CSharpBootcamp_301.BusinessLayer.csproj.AssemblyReference.cache
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.BusinessLayer\obj\Debug\CSharpBootcamp_301.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.BusinessLayer\bin\Debug\CSharpBootcamp_301.BusinessLayer.dll
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.BusinessLayer\bin\Debug\CSharpBootcamp_301.BusinessLayer.pdb
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.BusinessLayer\bin\Debug\CSharpBootcamp_301.DataAccessLayer.dll
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.BusinessLayer\bin\Debug\CSharpBootcamp_301.EntityLayer.dll
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.BusinessLayer\bin\Debug\CSharpBootcamp_301.DataAccessLayer.pdb
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.BusinessLayer\bin\Debug\CSharpBootcamp_301.DataAccessLayer.dll.config
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.BusinessLayer\bin\Debug\CSharpBootcamp_301.EntityLayer.pdb
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.BusinessLayer\bin\Debug\CSharpBootcamp_301.EntityLayer.dll.config
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.BusinessLayer\obj\Debug\CSharpBo.0F8D87AD.Up2Date
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.BusinessLayer\obj\Debug\CSharpBootcamp_301.BusinessLayer.dll
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.BusinessLayer\obj\Debug\CSharpBootcamp_301.BusinessLayer.pdb

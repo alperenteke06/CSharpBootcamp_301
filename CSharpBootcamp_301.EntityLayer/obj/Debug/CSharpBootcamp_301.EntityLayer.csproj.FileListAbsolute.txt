@@ -1,6 +1,12 @@
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\bin\Debug\CSharpBootcamp_301.EntityLayer.dll.config
 C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\bin\Debug\CSharpBootcamp_301.EntityLayer.dll
 C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\bin\Debug\CSharpBootcamp_301.EntityLayer.pdb
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
 C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\obj\Debug\CSharpBootcamp_301.EntityLayer.csproj.AssemblyReference.cache
 C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\obj\Debug\CSharpBootcamp_301.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\obj\Debug\CSharpBo.BE68CA0F.Up2Date
 C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\obj\Debug\CSharpBootcamp_301.EntityLayer.dll
 C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EntityLayer\obj\Debug\CSharpBootcamp_301.EntityLayer.pdb
