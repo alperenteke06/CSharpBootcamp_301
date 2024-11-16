@@ -1,0 +1,15 @@
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EFProject\obj\Debug\CSharpBootcamp_301.EFProject.csproj.AssemblyReference.cache
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EFProject\obj\Debug\CSharpBootcamp_301.EFProject.Form1.resources
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EFProject\obj\Debug\CSharpBootcamp_301.EFProject.Properties.Resources.resources
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EFProject\obj\Debug\CSharpBootcamp_301.EFProject.csproj.GenerateResource.cache
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EFProject\obj\Debug\CSharpBootcamp_301.EFProject.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EFProject\bin\Debug\CSharpBootcamp_301.EFProject.exe.config
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EFProject\bin\Debug\CSharpBootcamp_301.EFProject.exe
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EFProject\bin\Debug\CSharpBootcamp_301.EFProject.pdb
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EFProject\bin\Debug\EntityFramework.dll
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EFProject\bin\Debug\EntityFramework.xml
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EFProject\obj\Debug\CSharpBo.4FE217AD.Up2Date
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EFProject\obj\Debug\CSharpBootcamp_301.EFProject.exe
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.EFProject\obj\Debug\CSharpBootcamp_301.EFProject.pdb

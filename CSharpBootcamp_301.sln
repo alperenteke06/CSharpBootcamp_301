@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBootcamp_301.Business
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBootcamp_301.PresentationLayer", "CSharpBootcamp_301.PresentationLayer\CSharpBootcamp_301.PresentationLayer.csproj", "{5249B38F-4B95-491F-BBDF-DD067174145B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBootcamp_301.EFProject", "CSharpBootcamp_301.EFProject\CSharpBootcamp_301.EFProject.csproj", "{9B7F6D20-426F-4CC4-A015-DF40506B9FDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5249B38F-4B95-491F-BBDF-DD067174145B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5249B38F-4B95-491F-BBDF-DD067174145B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5249B38F-4B95-491F-BBDF-DD067174145B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B7F6D20-426F-4CC4-A015-DF40506B9FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7F6D20-426F-4CC4-A015-DF40506B9FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7F6D20-426F-4CC4-A015-DF40506B9FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7F6D20-426F-4CC4-A015-DF40506B9FDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
