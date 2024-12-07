@@ -1,6 +1,6 @@
 ﻿namespace CSharpBootcamp_301.EFProject
 {
-	partial class Form1
+	partial class FRM_Guide
 	{
 		/// <summary>
 		/// Required designer variable.
@@ -156,7 +156,7 @@
 			this.btnListGuiderByID.UseVisualStyleBackColor = false;
 			this.btnListGuiderByID.Click += new System.EventHandler(this.btnListGuiderByID_Click);
 			// 
-			// Form1
+			// FRM_Guide
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 24F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -175,7 +175,8 @@
 			this.Controls.Add(this.label1);
 			this.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.Margin = new System.Windows.Forms.Padding(4);
-			this.Name = "Form1";
+			this.Name = "FRM_Guide";
+			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "Guide Process";
 			((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
 			this.ResumeLayout(false);

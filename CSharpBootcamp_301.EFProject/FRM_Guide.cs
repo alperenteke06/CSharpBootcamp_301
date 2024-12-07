@@ -11,12 +11,12 @@ using System.Windows.Forms;
 
 namespace CSharpBootcamp_301.EFProject
 {
-	public partial class Form1 : Form
+	public partial class FRM_Guide : Form
 	{
 
 		BootcampEFTravelDBEntities_new db = new BootcampEFTravelDBEntities_new();
 
-		public Form1()
+		public FRM_Guide()
 		{
 			InitializeComponent();
 		}
