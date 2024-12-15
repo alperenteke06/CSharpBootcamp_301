@@ -18,3 +18,7 @@ Presentation katmanında bulunan App.config dosyasında, veritabanı bağlantıs
 ## 🎉 Ders 4: Entity Framework Metotları ile Proje Uygulaması
 - **Konu**: Entity Framework Metotları ile Proje Uygulaması
 - **Detaylar:** Bu derste, Entity Framework metotlarını kullanarak oluşturduğum Windows Form uygulamasında, bir önceki derste hazırlamış olduğum tablolardan Guide tablosundaki kullanıcılar üzerinde CRUD işlemleri gerçekleştirdim.
+
+## 🎉 Ders 5: Entity Framework: Tur Projesi Location İşlemleri
+- **Konu**: Entity Framework: Tur Projesi Location İşlemleri
+- **Detaylar:** Bu derste, Entity Framework metotlarını kullanarak oluşturduğum Windows Form uygulamasında, Location tablosu üzerinde CRUD işlemleri gerçekleştirdim.
