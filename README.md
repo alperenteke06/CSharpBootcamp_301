@@ -22,3 +22,8 @@ Presentation katmanında bulunan App.config dosyasında, veritabanı bağlantıs
 ## 🎉 Ders 5: Entity Framework: Tur Projesi Location İşlemleri
 - **Konu**: Entity Framework: Tur Projesi Location İşlemleri
 - **Detaylar:** Bu derste, Entity Framework metotlarını kullanarak oluşturduğum Windows Form uygulamasında, Location tablosu üzerinde CRUD işlemleri gerçekleştirdim.
+
+## 🎉 Ders 6: Entity Framework Metotları ve Linq Sorgular
+- **Konu**: Entity Framework Metotları ve Linq Sorgular Kullanarak İstatistik Sayfası Oluşturdum.
+- **Detaylar:** ![Screenshot 2024-12-15 233013](https://github.com/user-attachments/assets/3a5f8eef-ff11-4cc6-91b3-2ae704f6171d)
+
