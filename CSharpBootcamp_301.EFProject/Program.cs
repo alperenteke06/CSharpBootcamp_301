@@ -13,7 +13,7 @@ namespace CSharpBootcamp_301.EFProject
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new FRM_Location());
+			Application.Run(new FRM_Statistics());
 		}
 	}
 }
