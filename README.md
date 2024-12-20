@@ -34,3 +34,7 @@ Presentation katmanında bulunan App.config dosyasında, veritabanı bağlantıs
 - ## 🎉 Ders 8: Business Katmanı ve Logic Kurallar
 - **Konu**: Business Katmanı ve Logic Kurallar
 - **Detaylar:** Bu derste, Business Katmanı ile ilgili Abstract Interfaceler ve Concrete sınıflarını tanımladım, aynı zamanda presentation katmanı ile DAL katmanını nasıl ayırabileceğimiz ve bu ayırma sürecinde doğrulamalar v.b işlemleri nasıl yapacağımı öğrendim.
+
+- ## 🎉 Ders 9: Dependency Injection
+- **Konu**: Dependency Injection Kullanımı
+- **Detaylar:** Bu derste, Dependency Injection kullanarak daha sürdürülebilir bir kod yazmayı hedefledim bu sayede kod tekrarını önlemiş oldum.
