@@ -1,5 +1,3 @@
-C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\obj\Debug\CSharpBootcamp_301.DataAccessLayer.csproj.AssemblyReference.cache
-C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\obj\Debug\CSharpBootcamp_301.DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\bin\Debug\CSharpBootcamp_301.DataAccessLayer.dll.config
 C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\bin\Debug\CSharpBootcamp_301.DataAccessLayer.dll
 C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\bin\Debug\CSharpBootcamp_301.DataAccessLayer.pdb
@@ -10,8 +8,10 @@ C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\bin\Debug\CSha
 C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\bin\Debug\CSharpBootcamp_301.EntityLayer.dll.config
 C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\bin\Debug\EntityFramework.xml
 C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\obj\Debug\CSharpBootcamp_301.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\obj\Debug\CSharpBootcamp_301.DataAccessLayer.Migrations.mig1_addedStatusForCustomer.resources
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\obj\Debug\CSharpBootcamp_301.DataAccessLayer.csproj.GenerateResource.cache
+C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\obj\Debug\CSharpBootcamp_301.DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\obj\Debug\CSharpBo.A8147498.Up2Date
 C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\obj\Debug\CSharpBootcamp_301.DataAccessLayer.dll
 C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\obj\Debug\CSharpBootcamp_301.DataAccessLayer.pdb
-C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\obj\Debug\CSharpBootcamp_301.DataAccessLayer.Migrations.mig1_addedStatusForCustomer.resources
-C:\Projects\CSharpBootcamp_301\CSharpBootcamp_301.DataAccessLayer\obj\Debug\CSharpBootcamp_301.DataAccessLayer.csproj.GenerateResource.cache
