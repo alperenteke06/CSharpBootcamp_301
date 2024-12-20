@@ -27,3 +27,6 @@ Presentation katmanında bulunan App.config dosyasında, veritabanı bağlantıs
 - **Konu**: Entity Framework Metotları ve Linq Sorgular Kullanarak İstatistik Sayfası Oluşturdum.
 - **Detaylar:** ![Screenshot 2024-12-15 233013](https://github.com/user-attachments/assets/3a5f8eef-ff11-4cc6-91b3-2ae704f6171d)
 
+## 🎉 Ders 7: EntityState Komutları, Generic Repository Sınıfı ve Ef Sınıfları
+- **Konu**: EntityState Komutları, Generic Repository Sınıfı ve Ef Sınıfları
+- **Detaylar:** Bu derste, Generic Repository Sınıflarını ve EF Sınıflarını hazırlayarak projemizde ilerleyen süreçteki CRUD işlemlerinde kod tekrarına düşme durumunun önüne geçmeyi hedefleyen bir yaklaşım benimsedik ve ayrıca EntityState komutlarını kullanarak Entityler üzerinde durum değişikliği nasıl yapılabileceğini incelemiş oldum.
