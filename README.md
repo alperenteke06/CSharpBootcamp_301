@@ -30,3 +30,7 @@ Presentation katmanında bulunan App.config dosyasında, veritabanı bağlantıs
 ## 🎉 Ders 7: EntityState Komutları, Generic Repository Sınıfı ve Ef Sınıfları
 - **Konu**: EntityState Komutları, Generic Repository Sınıfı ve Ef Sınıfları
 - **Detaylar:** Bu derste, Generic Repository Sınıflarını ve EF Sınıflarını hazırlayarak projemizde ilerleyen süreçteki CRUD işlemlerinde kod tekrarına düşme durumunun önüne geçmeyi hedefleyen bir yaklaşım benimsedik ve ayrıca EntityState komutlarını kullanarak Entityler üzerinde durum değişikliği nasıl yapılabileceğini incelemiş oldum.
+
+- ## 🎉 Ders 8: Business Katmanı ve Logic Kurallar
+- **Konu**: Business Katmanı ve Logic Kurallar
+- **Detaylar:** Bu derste, Business Katmanı ile ilgili Abstract Interfaceler ve Concrete sınıflarını tanımladım, aynı zamanda presentation katmanı ile DAL katmanını nasıl ayırabileceğimiz ve bu ayırma sürecinde doğrulamalar v.b işlemleri nasıl yapacağımı öğrendim.
