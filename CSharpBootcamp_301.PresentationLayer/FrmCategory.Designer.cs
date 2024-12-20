@@ -1,6 +1,6 @@
 ﻿namespace CSharpBootcamp_301.PresentationLayer
 {
-	partial class Form1
+	partial class FrmCategory
 	{
 		/// <summary>
 		/// Required designer variable.
@@ -68,6 +68,7 @@
 			this.btnList.TabIndex = 2;
 			this.btnList.Text = "List All";
 			this.btnList.UseVisualStyleBackColor = true;
+			this.btnList.Click += new System.EventHandler(this.btnList_Click);
 			// 
 			// dataGridView1
 			// 
@@ -134,6 +135,7 @@
 			this.btnAdd.TabIndex = 9;
 			this.btnAdd.Text = "Add";
 			this.btnAdd.UseVisualStyleBackColor = true;
+			this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
 			// 
 			// btnDelete
 			// 
@@ -143,6 +145,7 @@
 			this.btnDelete.TabIndex = 10;
 			this.btnDelete.Text = "Delete";
 			this.btnDelete.UseVisualStyleBackColor = true;
+			this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
 			// 
 			// btnUpdate
 			// 
@@ -152,6 +155,7 @@
 			this.btnUpdate.TabIndex = 11;
 			this.btnUpdate.Text = "Update";
 			this.btnUpdate.UseVisualStyleBackColor = true;
+			this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
 			// 
 			// btnFindById
 			// 
@@ -161,8 +165,9 @@
 			this.btnFindById.TabIndex = 12;
 			this.btnFindById.Text = "Find By ID:";
 			this.btnFindById.UseVisualStyleBackColor = true;
+			this.btnFindById.Click += new System.EventHandler(this.btnFindById_Click);
 			// 
-			// Form1
+			// FrmCategory
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -182,7 +187,7 @@
 			this.Controls.Add(this.label1);
 			this.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-			this.Name = "Form1";
+			this.Name = "FrmCategory";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "Category Panel";
 			((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();

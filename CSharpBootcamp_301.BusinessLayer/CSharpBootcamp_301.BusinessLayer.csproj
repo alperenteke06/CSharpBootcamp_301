@@ -41,12 +41,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\IAdminService.cs" />
+    <Compile Include="Abstract\ICategoryService.cs" />
+    <Compile Include="Abstract\ICustomerService.cs" />
+    <Compile Include="Abstract\IGenericService.cs" />
+    <Compile Include="Abstract\IOrderService.cs" />
+    <Compile Include="Abstract\IProductService.cs" />
+    <Compile Include="Concrete\AdminManager.cs" />
+    <Compile Include="Concrete\CategoryManager.cs" />
+    <Compile Include="Concrete\CustomerManager.cs" />
+    <Compile Include="Concrete\OrderManager.cs" />
+    <Compile Include="Concrete\ProductManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CSharpBootcamp_301.DataAccessLayer\CSharpBootcamp_301.DataAccessLayer.csproj">
       <Project>{e20c202d-6d0f-4bf2-ae27-d7b020199c57}</Project>
       <Name>CSharpBootcamp_301.DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSharpBootcamp_301.EntityLayer\CSharpBootcamp_301.EntityLayer.csproj">
+      <Project>{6CF10B2B-881B-4F1C-AA09-3C8C1D4E9983}</Project>
+      <Name>CSharpBootcamp_301.EntityLayer</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
