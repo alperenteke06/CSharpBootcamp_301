@@ -11,7 +11,13 @@ namespace CSharpBootcamp_301.BusinessLayer.Concrete
 {
 	public class ProductManager : IProductService
 	{
-	private readonly IProductDal _productDal;	
+		private readonly IProductDal _productDal;
+
+		public ProductManager(IProductDal productDal)
+		{
+			_productDal = productDal;
+		}
+
 		public void TDelete(Product entity)
 		{
 			_productDal.Delete(entity);
@@ -25,6 +31,11 @@ namespace CSharpBootcamp_301.BusinessLayer.Concrete
 		public Product TGetById(int id)
 		{
 			return _productDal.GetById(id);
+		}
+
+		public List<object> TGetProductsWithCategoryName()
+		{
+			return _productDal.GetProductsWithCategoryName();
 		}
 
 		public void TInsert(Product entity)
