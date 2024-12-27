@@ -38,3 +38,8 @@ Presentation katmanında bulunan App.config dosyasında, veritabanı bağlantıs
 - ## 🎉 Ders 9: Dependency Injection
 - **Konu**: Dependency Injection Kullanımı
 - **Detaylar:** Bu derste, Dependency Injection kullanarak daha sürdürülebilir bir kod yazmayı hedefledim bu sayede kod tekrarını önlemiş oldum.
+
+- ## 🎉 Ders 10: Entitye Özel Metot Yazmak
+- **Konu**: Entitye Özel Metot Yazmak
+- **Detaylar:** Bu derste, Entitylere özel metot nasıl yazılır konusunu ele aldık, CRUD işlemlerinden ziyade entitye özgü olarak ihitacımız olan işlemlerde kullanabileceğimiz metotlar geliştirdim.
+
